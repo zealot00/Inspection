@@ -125,7 +125,6 @@ diskinfo = serverinfo.getDiskStatus()
 print cpuinfo
 print meminfo
 print diskinfo
-print getPerformanceParameters()
 print getSystemInfo()
 print getSystemLoad()
 print getPerformanceParameters()
